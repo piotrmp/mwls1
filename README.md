@@ -8,7 +8,17 @@ The dataset was created as a part of the study described in the article *[Multi-
 
 ## Data format
 
-File ```MWLS1.tsv``` contains 1462 sentences with 7059 simplifications that make up the dataset. 
+File ```MWLS1.tsv``` contains 1462 sentences with 7059 simplifications that make up the dataset. It has the following tab-separated columns:
+* *Id*: unique sentence indentifier,
+* *Group* indicates the length of the replaced text (1-3 words) and the source corpus:
+  * *BIBLIE*: World English Bible translation from a [parallel corpus](http://christos-c.com/bible/),
+  * *BIOMED*: Text of biomedical publications gathered in the [CRAFT corpus](http://bionlp-corpora.sourceforge.net/CRAFT/),
+  * *EUROPARL*: English text from the European Parliament proceedings compiled as the [Europarl corpus](https://www.statmt.org/europarl/).
+* *Prefix*: the part of the sentence before the replaced fragment,
+* *Replaced*: the replaced fragment,
+* *Suffix*: the part of the sentence after the replaced fragment,
+* *NoAnswers*: number of replacements provided by the workers (1-5)
+* *Answers*: the replacements.
 
 ## Licence
 
