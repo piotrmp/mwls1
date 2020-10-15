@@ -31,8 +31,7 @@ Przybyła, P. and Shardlow, M., 2020, December. Multi-Word Lexical Simplificatio
 
     @inproceedings{plainifier,
         title = "Multi-Word Lexical Simplification",
-        author = "Przybyła, Piotr and
-                  Shardlow, Matthew",
+        author = {Przyby{\l}a, Piotr and Shardlow, Matthew}",
         booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
         month = dec,
         year = "2020",
