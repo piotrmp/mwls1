@@ -26,7 +26,7 @@ The dataset is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/
 
 ## Citation
 
-Przybyła, P. and Shardlow, M., 2020, December. Multi-Word Lexical Simplification. In Proceedings of the 28th International Conference on Computational Linguistics.
+Przybyła, P. and Shardlow, M., 2020. Multi-Word Lexical Simplification. In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020).
 
 
     @inproceedings{plainifier,
