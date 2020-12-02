@@ -4,7 +4,7 @@ MWLS1 (*Multi-Word Lexical Simplification dataset 1*) is a dataset for lexical s
 
 For example, one of the sentences in the dataset (*CASE_1433*) reads *For the fortified city is solitary, a **habitation deserted** and forsaken, like the wilderness.* The replaced fragment, highlighted in bold, has been simplified by crowd workers as *home left*, *residence abandoned*, *home forgotten*, *house empty* and *place empty*.
 
-The dataset was created as a part of the study described in the article *[Multi-Word Lexical Simplification](https://www.aclweb.org/anthology/2020.coling-main.123.pdf)* presented at the [COLING 2020](https://coling2020.org/) conference in Barcelona. If you need any more information consult [the paper](https://github.com/piotrmp/mwls1/blob/main/Multi-Word_Lexical_Simplification_Coling2020.pdf) or contact its authors! 
+The dataset was created as a part of the study described in the article *[Multi-Word Lexical Simplification](https://www.aclweb.org/anthology/2020.coling-main.123.pdf)* presented at the [COLING 2020](https://coling2020.org/) conference in Barcelona. If you need any more information consult [the paper](https://www.aclweb.org/anthology/2020.coling-main.123.pdf) or contact its authors! 
 
 ## Data format
 
